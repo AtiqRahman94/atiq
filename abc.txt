@@ -1,0 +1,3 @@
+Hello this is my first Github file.
+My name is Atiq
+I am an aspiring coder.
